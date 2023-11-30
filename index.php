@@ -9,7 +9,7 @@ include'functions.php';
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="icon" href="favicon.ico"/>
 
-    <title>Diagnosa Penyakit Lambung</title>
+    <title>Diagnosa Penyakit Lambungs</title>
     <link href="assets/css/darkly-bootstrap.min.css" rel="stylesheet"/>
     <link href="assets/css/general.css" rel="stylesheet"/>
     <script src="assets/js/jquery.min.js"></script>
