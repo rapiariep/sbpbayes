@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/rapiarie/public_html/repositories/test
+    - export DEPLOYPATH=/home/rapiarie/public_html/sbp
     - /bin/cp -R * $DEPLOYPATH
